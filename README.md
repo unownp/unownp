@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Unownp GitHub stats](https://github-readme-stats.vercel.app/api?username=unownp)](https://github.com/unownp/github-readme-stats)
 <!--
 **unownp/unownp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
