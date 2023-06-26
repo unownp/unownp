@@ -1,6 +1,6 @@
 ### Hello there 👋
-
-[![Unownp GitHub stats](https://github-readme-stats.vercel.app/api?username=unownp)](https://github.com/unownp/github-readme-stats)
+Меня зовут Никита. С сентября 2020 года я инженер по тестированию программного обеспечения.</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownp&show_icons=true&theme=synthwave)
 <!--
 **unownp/unownp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
