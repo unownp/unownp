@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 Меня зовут Никита. С сентября 2020 года я инженер по тестированию программного обеспечения.</br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownp&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownp&show_icons=true&theme=light)
 
 Образование и сертификаты
 <table width="100%" border='0'>
