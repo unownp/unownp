@@ -31,7 +31,7 @@
 <a href="https://www.browserstack.com/"><img src="icons/Browserstack.svg" width="50" height="50" alt="Browserstack"/></a>
 <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="icons/CSharp.svg" width="50" height="50" alt="C#"/></a>
 <a href="https://www.charlesproxy.com/"><img src="icons/charles.png" width="50" height="50" alt="Charles"/></a>
-<a href="https://developer.chrome.com/docs/devtools/"><img src="icons/chrome.png" width="50" height="50" alt="Chrome DevTools"/></a>
+<a href="https://developer.chrome.com/docs/devtools/"><img src="icons/Chrome.png" width="50" height="50" alt="Chrome DevTools"/></a>
 <a href="https://dbeaver.io/"><img src="icons/DBeaver.svg" width="50" height="50" alt="DBeaver"/></a>
 <a href="https://www.docker.com/"><img src="icons/Docker.svg" width="50" height="50" alt="Docker"/></a>
 <a href="https://git-scm.com/"><img src="icons/Git.png" width="50" height="50" alt="GIT"/></a>
@@ -39,7 +39,7 @@
 <a href="https://github.com/features/actions"><img src="icons/GitHub-Actions.svg" width="50" height="50" alt="GitHub Actions"/></a>
 <a href="https://docs.gitlab.com/ee/ci/"><img src="icons/Gitlab.png" width="50" height="50" alt="Gitlab CI/CD"/></a>
 <a href="https://gradle.org/"><img src="icons/Gradle.svg" width="50" height="50" alt="Gradle"/></a>
-<a href="https://www.jetbrains.com/idea/"><img src="icons/Intelij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="icons/Intellij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
 <a href="https://www.java.com/"><img src="icons/Java.svg" width="50" height="50" alt="Java"/></a>
 <a href="https://www.atlassian.com/ru/software/jira"><img src="icons/Jira.svg" width="50" height="50" alt="Jira"/></a>
 <a href="https://junit.org/junit5/"><img src="icons/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
