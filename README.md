@@ -31,7 +31,7 @@
 <a href="https://www.browserstack.com/"><img src="icons/Browserstack.svg" width="50" height="50" alt="Browserstack"/></a>
 <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="icons/CSharp.svg" width="50" height="50" alt="C#"/></a>
 <a href="https://www.charlesproxy.com/"><img src="icons/charles.png" width="50" height="50" alt="Charles"/></a>
-<a href="https://developer.chrome.com/docs/devtools/"><img src="icons/Chrome.png" width="50" height="50" alt="Chrome DevTools"/></a>
+<a href="https://developer.chrome.com/docs/devtools/"><img src="icons/Chrome.svg" width="50" height="50" alt="Chrome DevTools"/></a>
 <a href="https://dbeaver.io/"><img src="icons/DBeaver.svg" width="50" height="50" alt="DBeaver"/></a>
 <a href="https://www.docker.com/"><img src="icons/Docker.svg" width="50" height="50" alt="Docker"/></a>
 <a href="https://git-scm.com/"><img src="icons/Git.png" width="50" height="50" alt="GIT"/></a>
