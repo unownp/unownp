@@ -5,18 +5,18 @@
 Образование и сертификаты
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><img src="/images/polytech_logo.svg"></td><td valign="middle">Санкт-Петербургский Государственный Политехнический университет</br>
+    <td width="30%" valign="bottom"><img src="/images/polytech_logo.svg" alt=""></td><td valign="middle">Санкт-Петербургский Государственный Политехнический университет
 Менеджмент качества</td></tr>
-    <tr><td width="30%" valign="bottom"><img src="/images/qa-guru_logo.png"></td><td valign="middle">
-Школа инженеров по автоматизации тестирования: <a target="_blank" href="https://qa.guru">qa-guru</a></br>
+    <tr><td width="30%" valign="bottom"><img src="/images/qa-guru_logo.png" alt=""></td><td valign="middle">
+Школа инженеров по автоматизации тестирования: <a target="_blank" href="https://qa.guru">qa-guru</a>
 <a target="_blank" href="https://drive.google.com/file/d/1UV9lX1spQIAYmCMsrN_jBo1AEakhWeBJ/view">Инженер по автоматизации тестирования</a>
 </td>  
-<tr><td width="30%" valign="bottom"><img src="/images/level_up_logo.png"></td><td valign="middle">
-<a target="_blank" href="https://levelp.ru/about/">Школа IT-Профессий Level UP</a></br>
+<tr><td width="30%" valign="bottom"><img src="/images/level_up_logo.png" alt=""></td><td valign="middle">
+<a target="_blank" href="https://levelp.ru/about/">Школа IT-Профессий Level UP</a>
 <a target="_blank" href="https://drive.google.com/file/d/1SJH1r_PiH5EwN0nvM1F_qcFUQvbbGII1/view">Основы Java</a>
 </td>
-<tr><td width="30%" valign="bottom"><img src="/images/istqb_logo.png"></td><td valign="middle">
-<a target="_blank" href="https://www.istqb.org/">International Software Qualifications Board</a></br>
+<tr><td width="30%" valign="bottom"><img src="/images/istqb_logo.png" alt=""></td><td valign="middle">
+<a target="_blank" href="https://www.istqb.org/">International Software Qualifications Board</a>
 <a target="_blank" href="http://scr.istqb.org/?number=91747">Сертификат</a>
 </td>
   </table>
@@ -40,7 +40,7 @@
 <a href="https://docs.gitlab.com/ee/ci/"><img src="icons/Gitlab.png" width="50" height="50" alt="Gitlab CI/CD"/></a>
 <a href="https://gradle.org/"><img src="icons/Gradle.svg" width="50" height="50" alt="Gradle"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="icons/Intellij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
-<a href="https://www.java.com/"><img src="icons/Java.svg" width="50" height="50" alt="Java"/></a>
+<a href="https://www.oracle.com/javam"><img src="icons/Java.svg" width="50" height="50" alt="Java"/></a>
 <a href="https://www.atlassian.com/ru/software/jira"><img src="icons/Jira.svg" width="50" height="50" alt="Jira"/></a>
 <a href="https://junit.org/junit5/"><img src="icons/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
 <a href="https://www.elastic.co/kibana"><img src="icons/Kibana.svg" width="50" height="50" alt="Kibana"/></a>
